@@ -30,6 +30,7 @@ while True:
     print(f"Hehe boy, you said {want_coffe}")
     want_instructions = yes_no ("do you want hear a joke?")
     print(f"oh, so you said {want_instructions}")
+    break
 
 print ("no or yes it's not meaning")
 print ("nothing")

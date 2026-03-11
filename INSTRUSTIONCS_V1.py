@@ -1,8 +1,7 @@
 
 while True:
 
-    want_instructions =input ("do you want to see the instructions? ").loweer()
-
+    want_instructions =input ("do you want to see the instructions? ").lower()
     # check the user says yes ? no
     if want_instructions == "yes"or want_instructions == "y":
         print("you said yes")
