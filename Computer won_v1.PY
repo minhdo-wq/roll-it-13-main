@@ -1,4 +1,3 @@
-from random import random
 
 def initial_points(which_player):...
 def make_statement(statement, decoration):
