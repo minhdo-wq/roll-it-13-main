@@ -10,7 +10,7 @@ height = 400
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Runner Game")
 
-# colors
+# colors     
 white = (255,255,255)
 black = (0,0,0)
 red = (200,0,0)
